@@ -1,4 +1,3 @@
-# Dating App Exam Problem 1
 from collections import deque
 
 
