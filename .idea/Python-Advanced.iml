@@ -4,6 +4,11 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.8 (Final-Exam 09.08.2020)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Modules" />
+    <orderEntry type="module" module-name="Оценяване на домашни" />
+    <orderEntry type="module" module-name="Оценяване на домашни" />
+    <orderEntry type="module" module-name="Оценяване на домашни" />
+    <orderEntry type="module" module-name="File_Handling_Exercises" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />

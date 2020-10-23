@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Оценяване на домашни/File_Handling_Exercises/.idea/File_Handling_Exercises.iml" filepath="$PROJECT_DIR$/../Оценяване на домашни/File_Handling_Exercises/.idea/File_Handling_Exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Modules/.idea/Modules.iml" filepath="$PROJECT_DIR$/../Modules/.idea/Modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python-Advanced.iml" filepath="$PROJECT_DIR$/.idea/Python-Advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Оценяване на домашни/.idea/Оценяване на домашни.iml" filepath="$PROJECT_DIR$/../Оценяване на домашни/.idea/Оценяване на домашни.iml" />
     </modules>
   </component>
 </project>
